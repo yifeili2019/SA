@@ -1,0 +1,340 @@
+0
+enemylist:
+[4.825412750244141, 1.7620675563812256, 0.6132404208183289]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+1
+enemylist:
+[4.816166400909424, 1.7580411434173584, 0.613942563533783]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+2
+enemylist:
+[4.8134355545043945, 1.7567858695983887, 0.615443766117096]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+3
+enemylist:
+[4.818358421325684, 1.758430004119873, 0.6163967847824097]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+4
+enemylist:
+[4.822709560394287, 1.7590069770812988, 0.6168527007102966]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+5
+enemylist:
+[4.825040340423584, 1.7588609457015991, 0.6167672872543335]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+6
+enemylist:
+[4.823383808135986, 1.756817102432251, 0.6161149740219116]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+7
+enemylist:
+[4.822877883911133, 1.7549127340316772, 0.6156086921691895]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+8
+enemylist:
+[4.83071756362915, 1.7573529481887817, 0.6148072481155396]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+9
+enemylist:
+[4.8409833908081055, 1.7611345052719116, 0.6144194602966309]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+10
+enemylist:
+[4.853749752044678, 1.766343355178833, 0.6141026020050049]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+11
+enemylist:
+[4.8637261390686035, 1.7706326246261597, 0.6137109994888306]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+12
+enemylist:
+[4.864975452423096, 1.7713334560394287, 0.6130576133728027]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+13
+enemylist:
+[4.859253883361816, 1.7691879272460938, 0.6122756600379944]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+14
+enemylist:
+[4.855084419250488, 1.7675434350967407, 0.6117737889289856]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+15
+enemylist:
+[4.851579189300537, 1.766397476196289, 0.6115230321884155]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+16
+enemylist:
+[4.845560550689697, 1.7646636962890625, 0.6113715171813965]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+17
+enemylist:
+[4.841125011444092, 1.7636384963989258, 0.6114689707756042]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+18
+enemylist:
+[4.830995082855225, 1.7603670358657837, 0.6114499568939209]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
+19
+enemylist:
+[4.8194451332092285, 1.756614327430725, 0.6114492416381836]
+friendslist:
+pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [0.0, 0.0, 0.0]
+p: 100
+uncertainty: 0.0pos: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2.609999895095825, -0.8700000047683716, 0.8500000238418579]
+p: 100
+uncertainty: 0.0
